@@ -12,4 +12,5 @@ This script is written in pure Javascript and should be working in every Browser
 
 ## Logging out
 
+Shortcut:
 > Ctrl + Shift + L
